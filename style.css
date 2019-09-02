@@ -52,33 +52,6 @@ cite {
   color: #222222;
 }
 
-time {
-  color: #6a2cce;
-}
-
-a[href] {
-  color: #0099ef;
-  text-decoration: underline;
-}
-
-del {
-  color: #ff4400;
-}
-
-ins {
-  color: rgb(105, 178, 83);
-}
-
-del,
-ins {
-  text-decoration: none;
-}
-
-em,
-i {
-  font-style: normal;
-}
-
 .avatar-container {
   text-align: center;
 }
@@ -88,8 +61,8 @@ i {
 }
 
 .blog-navigation {
-  margin-bottom: 30px;
-  padding: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
 
   background-color: rgba(192, 135, 178, 0.7);
   border: 5px solid #786bd5;
@@ -224,4 +197,7 @@ footer {
 }
 p {
   color: yellow;
+}
+a {
+  color: cyan;
 }
