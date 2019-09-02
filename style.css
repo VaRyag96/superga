@@ -5,7 +5,7 @@ body {
   font-family: "Arial", sans-serif;
   color: #222222;
 
-  background: #ffffff url("img/bg-page.png") no-repeat top center;
+  background: #ffffff url("img/bg-page.jpg") no-repeat top center;
 }
 
 h1 {
@@ -84,15 +84,15 @@ i {
 }
 
 .avatar {
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 .blog-navigation {
   margin-bottom: 30px;
   padding: 20px;
 
-  background-color: rgba(68, 112, 196, 0.7);
-  border: 5px solid #2d508f;
+  background-color: rgba(192, 135, 178, 0.7);
+  border: 5px solid #786bd5;
 
   color: #ffffff;
 }
@@ -185,7 +185,7 @@ figcaption {
 footer {
   margin-top: 30px;
   padding-top: 10px;
-  color: #aaaaaa;
+  color: #847de4;
   border-top: 1px solid #aaaaaa;
 }
 
