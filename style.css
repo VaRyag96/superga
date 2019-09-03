@@ -58,11 +58,12 @@ h2 {
 }
 
 footer {
-  margin-top: 30px;
+  margin-top: 20px;
   padding-top: 10px;
   background-color: #847de4;
   border-top: 2px solid #aaaaaa;
-  padding: 10px;
+  padding-left: 30px;
+  padding-bottom: 20px;
 }
 
 .page-title {
@@ -79,4 +80,18 @@ p {
 }
 a {
   color: cyan;
+}
+.skills-background {
+  padding: 40px;
+  background-color: rgba(184, 168, 72, 0.7);
+  border: 4px solid #786bd5;
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.overlord-container {
+  text-align: right;
+}
+b {
+  vertical-align: top;
 }
